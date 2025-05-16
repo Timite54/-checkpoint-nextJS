@@ -1,4 +1,4 @@
-# -checkpoint-nextJS
+# checkpoint-nextJS
 
 ## Objectif
 
